@@ -1,7 +1,4 @@
-ultralytics
 streamlit
 pandas
 plotly
-pytest
-PyYAML
-opencv-python
+pillow
